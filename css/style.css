@@ -1,0 +1,46 @@
+body{
+  background-color: #35353f;
+}
+/*#52f7c6*/
+
+/* Refresh Me Part */
+.refreshme{
+  font-family: Permanent Marker;
+  font-size: 9rem;
+  color: #52f7c6;
+  text-shadow: 4px 4px 8px #000000;
+  margin-top: 3rem;
+}
+
+/* Main Body */
+.main-body{
+  margin: 5rem 0;
+  padding: 0 25rem;
+  text-align: center;
+}
+.player-name{
+  color: #52f7c6;
+  font-family: Damion;
+  font-size: 3rem;
+}
+.dice-image1,.dice-image2{
+  width: 12rem;
+  height: auto;
+}
+
+/* end this */
+.end{
+  font-family: Damion;
+  font-size: 1.5rem;
+  color: white;
+}
+
+@media (max-width:1200px) {
+
+  .main-body{
+    margin: 5rem 0;
+    padding: 0 15rem;
+    text-align: center;
+  }
+
+}
